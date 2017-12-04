@@ -27,7 +27,6 @@ This is a developer's portal for Easy Digital Downloads and should _not_ be used
 Anyone is welcome to contribute to Easy Digital Downloads. Please read the [guidelines for contributing](https://github.com/easydigitaldownloads/easy-digital-downloads/blob/master/CONTRIBUTING.md) to this repository.
 
 There are various ways you can contribute:
-
 1. Raise an [Issue](https://github.com/easydigitaldownloads/easy-digital-downloads/issues) on GitHub
 2. Send us a Pull Request with your bug fixes and/or new features
 3. Translate Easy Digital Downloads into [different languages](http://docs.easydigitaldownloads.com/article/1023-translating-easy-digital-downloads)
